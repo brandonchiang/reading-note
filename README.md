@@ -8,3 +8,4 @@
 > 參考: [VS Code使用git+github進行版本控制](https://superhbin.pixnet.net/blog/post/34928539-【vs-code】02.vs-code使用git%2Bgithub進行版本控制)
 
 
+>那天在FB上看到一篇文章，說看書不用要求全部看完，只要有看到對自已有幫助的部份，就值得了。
